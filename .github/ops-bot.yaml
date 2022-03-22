@@ -1,0 +1,5 @@
+auto_merger: false
+branch_checker: false
+label_checker: false
+release_drafter: false
+external_contributors: true
